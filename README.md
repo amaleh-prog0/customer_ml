@@ -5,7 +5,7 @@ This project predicts high‑value customers from an online retail dataset using
 ## How to run
 
 1. Clone this repository.
-2. Place `customer_retail.csv` in the `data/` folder (or in the root directory).
+2. Use the dataset `customer_retail.csv` in the `data/` folder (or in the root directory).
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
